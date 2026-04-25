@@ -1,20 +1,40 @@
-<h1 align="center">Hi 👋, I'm MEHDI</h1>
-<h3 align="center">A beginner developer passionate about cybersecurity from MOROCCO</h3>
+<h1 align="center">👋 Hi, I'm Mehdi</h1>
+<h3 align="center">💻 Beginner Developer | Cybersecurity Enthusiast 🇲🇦</h3>
 
-- 🔭 I’m currently working on **Mini C projects**
+---
 
-- 🌱 I’m currently learning **C programming and computer fundamentals**
+### 🚀 What I'm doing:
+- 🔭 I’m currently working on **Mini C Projects**
+- 🌱 I’m learning **C Programming and Computer Fundamentals**
+- 🎯 My goal is to grow in **Cybersecurity**
 
-- 🤝 I’m looking for help with **Improving my C programming skills**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/ELMORO0?tab=repositories](https://github.com/ELMORO0?tab=repositories)
+### 🤝 What I’m looking for:
+- 💡 Improve my **C programming skills**
+- 📚 Better understand **systems and security basics**
 
-- 📫 How to reach me **mehdi.moro.06@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+### 👨‍💻 My Projects:
+📌 You can check all my work here:  
+👉 https://github.com/ELMORO0?tab=repositories
+
+---
+
+### 📫 Contact me:
+📧 mehdi.moro.06@gmail.com  
+
+---
+
+### 🛠️ Languages & Tools:
+<p align="left"> 
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> 
+  </a> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
-# MEHDI
+---
+
+### ⚡ Fun Fact:
+💭 I'm just starting, but I'm building a strong foundation to reach a high level 🚀
